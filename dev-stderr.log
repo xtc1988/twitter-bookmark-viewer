@@ -1,0 +1,798 @@
+ ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+ ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+ ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+ ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+ ⨯ ./src/app/bookmarks/page.tsx
+Error: 
+  [31mx[0m Unexpected token `DashboardLayout`. Expected jsx identifier
+     ,-[[36;1;4mC:\myproject\twitter-bookmark-viewer\src\app\bookmarks\page.tsx[0m:178:1]
+ [2m178[0m |   }
+ [2m179[0m | 
+ [2m180[0m |   return (
+ [2m181[0m |     <DashboardLayout>
+     : [31;1m     ^^^^^^^^^^^^^^^[0m
+ [2m182[0m |       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
+ [2m183[0m |         <div className="flex gap-8">
+ [2m183[0m |           {/* 左側: 年月セレクター */}
+     `----
+
+Caused by:
+    Syntax Error
+
+Import trace for requested module:
+./src/app/bookmarks/page.tsx
+ ⨯ ./src/app/bookmarks/page.tsx
+Error: 
+  [31mx[0m Unexpected token `DashboardLayout`. Expected jsx identifier
+     ,-[[36;1;4mC:\myproject\twitter-bookmark-viewer\src\app\bookmarks\page.tsx[0m:178:1]
+ [2m178[0m |   }
+ [2m179[0m | 
+ [2m180[0m |   return (
+ [2m181[0m |     <DashboardLayout>
+     : [31;1m     ^^^^^^^^^^^^^^^[0m
+ [2m182[0m |       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
+ [2m183[0m |         <div className="flex gap-8">
+ [2m183[0m |           {/* 左側: 年月セレクター */}
+     `----
+
+Caused by:
+    Syntax Error
+
+Import trace for requested module:
+./src/app/bookmarks/page.tsx
+ ⨯ ./src/app/bookmarks/page.tsx
+Error: 
+  [31mx[0m Unexpected token `DashboardLayout`. Expected jsx identifier
+     ,-[[36;1;4mC:\myproject\twitter-bookmark-viewer\src\app\bookmarks\page.tsx[0m:178:1]
+ [2m178[0m |   }
+ [2m179[0m | 
+ [2m180[0m |   return (
+ [2m181[0m |     <DashboardLayout>
+     : [31;1m     ^^^^^^^^^^^^^^^[0m
+ [2m182[0m |       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
+ [2m183[0m |         <div className="flex gap-8">
+ [2m183[0m |           {/* 左側: 年月セレクター */}
+     `----
+
+Caused by:
+    Syntax Error
+
+Import trace for requested module:
+./src/app/bookmarks/page.tsx
+<w> [webpack.cache.PackFileCacheStrategy] Caching failed for pack: Error: ENOENT: no such file or directory, rename 'C:\myproject\twitter-bookmark-viewer\.next\cache\webpack\client-development-fallback\0.pack.gz_' -> 'C:\myproject\twitter-bookmark-viewer\.next\cache\webpack\client-development-fallback\0.pack.gz'
+ ⨯ ./src/app/bookmarks/page.tsx
+Error: 
+  [31mx[0m Unexpected token `DashboardLayout`. Expected jsx identifier
+     ,-[[36;1;4mC:\myproject\twitter-bookmark-viewer\src\app\bookmarks\page.tsx[0m:178:1]
+ [2m178[0m |   }
+ [2m179[0m | 
+ [2m180[0m |   return (
+ [2m181[0m |     <DashboardLayout>
+     : [31;1m     ^^^^^^^^^^^^^^^[0m
+ [2m182[0m |       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
+ [2m183[0m |         <div className="flex gap-8">
+ [2m183[0m |           {/* 左側: 年月セレクター */}
+     `----
+
+Caused by:
+    Syntax Error
+
+Import trace for requested module:
+./src/app/bookmarks/page.tsx
+ ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+ ⚠ Fast Refresh had to perform a full reload. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+ ⚠ Fast Refresh had to perform a full reload. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+ ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+ ⚠ Fast Refresh had to perform a full reload. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+ ⚠ Fast Refresh had to perform a full reload. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+<w> [webpack.cache.PackFileCacheStrategy] Caching failed for pack: Error: ENOENT: no such file or directory, lstat 'C:\myproject\twitter-bookmark-viewer\.next\server\app\api'
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Resolving '../../../../.next/server/app/api/bookmarks/import/route' in C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\server for build dependencies doesn't lead to expected result 'C:\myproject\twitter-bookmark-viewer\.next\server\app\api\bookmarks\import\route.js', but to 'Error: Can't resolve '../../../../.next/server/app/api/bookmarks/import/route' in 'C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\server'' instead. Resolving dependencies are ignored for this path.
+<w>  at resolve commonjs file ../../../../.next/server/app/api/bookmarks/import/route (expected C:\myproject\twitter-bookmark-viewer\.next\server\app\api\bookmarks\import\route.js)
+<w>  at file dependencies C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\server\require.js
+<w>  at file C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\server\require.js
+<w>  at file dependencies C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\server\load-components.js
+<w>  at file C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\server\load-components.js
+<w>  at file dependencies C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\build\utils.js
+<w>  at file C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\build\utils.js
+<w>  at file dependencies C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\build\worker.js
+<w>  at file C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\build\worker.js
+<w>  at file dependencies C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\build\webpack\loaders\next-route-loader\index.js
+<w>  at file C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\build\webpack\loaders\next-route-loader\index.js
+<w>  at resolve commonjs C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\build\webpack\loaders\next-route-loader\index.js
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Resolving '../../../../.next/server/app/test/page' in C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\server for build dependencies doesn't lead to expected result 'C:\myproject\twitter-bookmark-viewer\.next\server\app\test\page.js', but to 'Error: Can't resolve '../../../../.next/server/app/test/page' in 'C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\server'' instead. Resolving dependencies are ignored for this path.
+<w>  at resolve commonjs file ../../../../.next/server/app/test/page (expected C:\myproject\twitter-bookmark-viewer\.next\server\app\test\page.js)
+<w>  at file dependencies C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\server\require.js
+<w>  at file C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\server\require.js
+<w>  at file dependencies C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\server\load-components.js
+<w>  at file C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\server\load-components.js
+<w>  at file dependencies C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\build\utils.js
+<w>  at file C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\build\utils.js
+<w>  at file dependencies C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\build\worker.js
+<w>  at file C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\build\worker.js
+<w>  at file dependencies C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\build\webpack\loaders\next-route-loader\index.js
+<w>  at file C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\build\webpack\loaders\next-route-loader\index.js
+<w>  at resolve commonjs C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\build\webpack\loaders\next-route-loader\index.js
+ ⨯ ./src/app/bookmarks/page.tsx
+Error: 
+  [31mx[0m Unexpected token `DashboardLayout`. Expected jsx identifier
+    ,-[[36;1;4mC:\myproject\twitter-bookmark-viewer\src\app\bookmarks\page.tsx[0m:89:1]
+ [2m89[0m |   }
+ [2m90[0m | 
+ [2m91[0m |   return (
+ [2m92[0m |     <DashboardLayout>
+    : [31;1m     ^^^^^^^^^^^^^^^[0m
+ [2m93[0m |       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
+ [2m94[0m |         <div className="mb-8">
+ [2m94[0m |           <h1 className="text-3xl font-bold text-secondary-900 mb-2">
+    `----
+
+Caused by:
+    Syntax Error
+
+Import trace for requested module:
+./src/app/bookmarks/page.tsx
+ ⨯ ./src/app/bookmarks/page.tsx
+Error: 
+  [31mx[0m Unexpected token `DashboardLayout`. Expected jsx identifier
+    ,-[[36;1;4mC:\myproject\twitter-bookmark-viewer\src\app\bookmarks\page.tsx[0m:89:1]
+ [2m89[0m |   }
+ [2m90[0m | 
+ [2m91[0m |   return (
+ [2m92[0m |     <DashboardLayout>
+    : [31;1m     ^^^^^^^^^^^^^^^[0m
+ [2m93[0m |       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
+ [2m94[0m |         <div className="mb-8">
+ [2m94[0m |           <h1 className="text-3xl font-bold text-secondary-900 mb-2">
+    `----
+
+Caused by:
+    Syntax Error
+
+Import trace for requested module:
+./src/app/bookmarks/page.tsx
+ ⨯ ./src/app/bookmarks/page.tsx
+Error: 
+  [31mx[0m Unexpected token `DashboardLayout`. Expected jsx identifier
+    ,-[[36;1;4mC:\myproject\twitter-bookmark-viewer\src\app\bookmarks\page.tsx[0m:89:1]
+ [2m89[0m |   }
+ [2m90[0m | 
+ [2m91[0m |   return (
+ [2m92[0m |     <DashboardLayout>
+    : [31;1m     ^^^^^^^^^^^^^^^[0m
+ [2m93[0m |       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
+ [2m94[0m |         <div className="mb-8">
+ [2m94[0m |           <h1 className="text-3xl font-bold text-secondary-900 mb-2">
+    `----
+
+Caused by:
+    Syntax Error
+
+Import trace for requested module:
+./src/app/bookmarks/page.tsx
+<w> [webpack.cache.PackFileCacheStrategy] Caching failed for pack: Error: ENOENT: no such file or directory, lstat 'C:\myproject\twitter-bookmark-viewer\.next\server\app\api'
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Resolving '../../../../.next/server/app/test/page' in C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\server for build dependencies doesn't lead to expected result 'C:\myproject\twitter-bookmark-viewer\.next\server\app\test\page.js', but to 'Error: Can't resolve '../../../../.next/server/app/test/page' in 'C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\server'' instead. Resolving dependencies are ignored for this path.
+<w>  at resolve commonjs file ../../../../.next/server/app/test/page (expected C:\myproject\twitter-bookmark-viewer\.next\server\app\test\page.js)
+<w>  at file dependencies C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\server\require.js
+<w>  at file C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\server\require.js
+<w>  at file dependencies C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\server\load-components.js
+<w>  at file C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\server\load-components.js
+<w>  at file dependencies C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\build\utils.js
+<w>  at file C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\build\utils.js
+<w>  at file dependencies C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\build\worker.js
+<w>  at file C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\build\worker.js
+<w>  at file dependencies C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\build\webpack\loaders\next-route-loader\index.js
+<w>  at file C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\build\webpack\loaders\next-route-loader\index.js
+<w>  at resolve commonjs C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\build\webpack\loaders\next-route-loader\index.js
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Resolving '../../../../.next/server/app/api/bookmarks/import/route' in C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\server for build dependencies doesn't lead to expected result 'C:\myproject\twitter-bookmark-viewer\.next\server\app\api\bookmarks\import\route.js', but to 'Error: Can't resolve '../../../../.next/server/app/api/bookmarks/import/route' in 'C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\server'' instead. Resolving dependencies are ignored for this path.
+<w>  at resolve commonjs file ../../../../.next/server/app/api/bookmarks/import/route (expected C:\myproject\twitter-bookmark-viewer\.next\server\app\api\bookmarks\import\route.js)
+<w>  at file dependencies C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\server\require.js
+<w>  at file C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\server\require.js
+<w>  at file dependencies C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\server\load-components.js
+<w>  at file C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\server\load-components.js
+<w>  at file dependencies C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\build\utils.js
+<w>  at file C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\build\utils.js
+<w>  at file dependencies C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\build\worker.js
+<w>  at file C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\build\worker.js
+<w>  at file dependencies C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\build\webpack\loaders\next-route-loader\index.js
+<w>  at file C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\build\webpack\loaders\next-route-loader\index.js
+<w>  at resolve commonjs C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\build\webpack\loaders\next-route-loader\index.js
+<w> [webpack.cache.PackFileCacheStrategy] Caching failed for pack: Error: ENOENT: no such file or directory, lstat 'C:\myproject\twitter-bookmark-viewer\.next\server\app\api'
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Resolving '../../../../.next/server/app/test/page' in C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\server for build dependencies doesn't lead to expected result 'C:\myproject\twitter-bookmark-viewer\.next\server\app\test\page.js', but to 'Error: Can't resolve '../../../../.next/server/app/test/page' in 'C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\server'' instead. Resolving dependencies are ignored for this path.
+<w>  at resolve commonjs file ../../../../.next/server/app/test/page (expected C:\myproject\twitter-bookmark-viewer\.next\server\app\test\page.js)
+<w>  at file dependencies C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\server\require.js
+<w>  at file C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\server\require.js
+<w>  at file dependencies C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\server\load-components.js
+<w>  at file C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\server\load-components.js
+<w>  at file dependencies C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\build\utils.js
+<w>  at file C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\build\utils.js
+<w>  at file dependencies C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\build\worker.js
+<w>  at file C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\build\worker.js
+<w>  at file dependencies C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\build\webpack\loaders\next-route-loader\index.js
+<w>  at file C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\build\webpack\loaders\next-route-loader\index.js
+<w>  at resolve commonjs C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\build\webpack\loaders\next-route-loader\index.js
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Resolving '../../../../.next/server/app/api/bookmarks/import/route' in C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\server for build dependencies doesn't lead to expected result 'C:\myproject\twitter-bookmark-viewer\.next\server\app\api\bookmarks\import\route.js', but to 'Error: Can't resolve '../../../../.next/server/app/api/bookmarks/import/route' in 'C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\server'' instead. Resolving dependencies are ignored for this path.
+<w>  at resolve commonjs file ../../../../.next/server/app/api/bookmarks/import/route (expected C:\myproject\twitter-bookmark-viewer\.next\server\app\api\bookmarks\import\route.js)
+<w>  at file dependencies C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\server\require.js
+<w>  at file C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\server\require.js
+<w>  at file dependencies C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\server\load-components.js
+<w>  at file C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\server\load-components.js
+<w>  at file dependencies C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\build\utils.js
+<w>  at file C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\build\utils.js
+<w>  at file dependencies C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\build\worker.js
+<w>  at file C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\build\worker.js
+<w>  at file dependencies C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\build\webpack\loaders\next-route-loader\index.js
+<w>  at file C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\build\webpack\loaders\next-route-loader\index.js
+<w>  at resolve commonjs C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\build\webpack\loaders\next-route-loader\index.js
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Resolving '../../../../.next/server/app/api/bookmarks/import/route' in C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\server for build dependencies doesn't lead to expected result 'C:\myproject\twitter-bookmark-viewer\.next\server\app\api\bookmarks\import\route.js', but to 'Error: Can't resolve '../../../../.next/server/app/api/bookmarks/import/route' in 'C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\server'' instead. Resolving dependencies are ignored for this path.
+<w>  at resolve commonjs file ../../../../.next/server/app/api/bookmarks/import/route (expected C:\myproject\twitter-bookmark-viewer\.next\server\app\api\bookmarks\import\route.js)
+<w>  at file dependencies C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\server\require.js
+<w>  at file C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\server\require.js
+<w>  at file dependencies C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\server\load-components.js
+<w>  at file C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\server\load-components.js
+<w>  at file dependencies C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\build\utils.js
+<w>  at file C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\build\utils.js
+<w>  at file dependencies C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\build\worker.js
+<w>  at file C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\build\worker.js
+<w>  at file dependencies C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\build\webpack\loaders\next-route-loader\index.js
+<w>  at file C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\build\webpack\loaders\next-route-loader\index.js
+<w>  at resolve commonjs C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\build\webpack\loaders\next-route-loader\index.js
+<w> [webpack.cache.PackFileCacheStrategy] Caching failed for pack: Error: ENOENT: no such file or directory, lstat 'C:\myproject\twitter-bookmark-viewer\.next\server\app\api'
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Resolving '../../../../.next/server/app/test/page' in C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\server for build dependencies doesn't lead to expected result 'C:\myproject\twitter-bookmark-viewer\.next\server\app\test\page.js', but to 'Error: Can't resolve '../../../../.next/server/app/test/page' in 'C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\server'' instead. Resolving dependencies are ignored for this path.
+<w>  at resolve commonjs file ../../../../.next/server/app/test/page (expected C:\myproject\twitter-bookmark-viewer\.next\server\app\test\page.js)
+<w>  at file dependencies C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\server\require.js
+<w>  at file C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\server\require.js
+<w>  at file dependencies C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\server\load-components.js
+<w>  at file C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\server\load-components.js
+<w>  at file dependencies C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\build\utils.js
+<w>  at file C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\build\utils.js
+<w>  at file dependencies C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\build\worker.js
+<w>  at file C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\build\worker.js
+<w>  at file dependencies C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\build\webpack\loaders\next-route-loader\index.js
+<w>  at file C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\build\webpack\loaders\next-route-loader\index.js
+<w>  at resolve commonjs C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\build\webpack\loaders\next-route-loader\index.js
+<w> [webpack.cache.PackFileCacheStrategy] Caching failed for pack: Error: ENOENT: no such file or directory, lstat 'C:\myproject\twitter-bookmark-viewer\.next\server\app\api'
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Resolving '../../../../.next/server/app/api/bookmarks/import/route' in C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\server for build dependencies doesn't lead to expected result 'C:\myproject\twitter-bookmark-viewer\.next\server\app\api\bookmarks\import\route.js', but to 'Error: Can't resolve '../../../../.next/server/app/api/bookmarks/import/route' in 'C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\server'' instead. Resolving dependencies are ignored for this path.
+<w>  at resolve commonjs file ../../../../.next/server/app/api/bookmarks/import/route (expected C:\myproject\twitter-bookmark-viewer\.next\server\app\api\bookmarks\import\route.js)
+<w>  at file dependencies C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\server\require.js
+<w>  at file C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\server\require.js
+<w>  at file dependencies C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\server\load-components.js
+<w>  at file C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\server\load-components.js
+<w>  at file dependencies C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\build\utils.js
+<w>  at file C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\build\utils.js
+<w>  at file dependencies C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\build\worker.js
+<w>  at file C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\build\worker.js
+<w>  at file dependencies C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\build\webpack\loaders\next-route-loader\index.js
+<w>  at file C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\build\webpack\loaders\next-route-loader\index.js
+<w>  at resolve commonjs C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\build\webpack\loaders\next-route-loader\index.js
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Resolving '../../../../.next/server/app/test/page' in C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\server for build dependencies doesn't lead to expected result 'C:\myproject\twitter-bookmark-viewer\.next\server\app\test\page.js', but to 'Error: Can't resolve '../../../../.next/server/app/test/page' in 'C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\server'' instead. Resolving dependencies are ignored for this path.
+<w>  at resolve commonjs file ../../../../.next/server/app/test/page (expected C:\myproject\twitter-bookmark-viewer\.next\server\app\test\page.js)
+<w>  at file dependencies C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\server\require.js
+<w>  at file C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\server\require.js
+<w>  at file dependencies C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\server\load-components.js
+<w>  at file C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\server\load-components.js
+<w>  at file dependencies C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\build\utils.js
+<w>  at file C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\build\utils.js
+<w>  at file dependencies C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\build\worker.js
+<w>  at file C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\build\worker.js
+<w>  at file dependencies C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\build\webpack\loaders\next-route-loader\index.js
+<w>  at file C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\build\webpack\loaders\next-route-loader\index.js
+<w>  at resolve commonjs C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\build\webpack\loaders\next-route-loader\index.js
+ ⨯ Internal error: Error: Could not find the module "C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\client\link.js#" in the React Client Manifest. This is probably a bug in the React Server Components bundler.
+    at C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:260179
+    at eM (C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:260374)
+    at C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:274925
+    at Array.toJSON (C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:276115)
+    at stringify (<anonymous>)
+    at C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:262475
+    at ez (C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:262554)
+    at eB (C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:262955)
+    at Timeout._onTimeout (C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:259453)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+ ⨯ Internal error: Error: Could not find the module "C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\client\link.js#" in the React Client Manifest. This is probably a bug in the React Server Components bundler.
+    at C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:260179
+    at eM (C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:260374)
+    at C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:274925
+    at Array.toJSON (C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:276115)
+    at stringify (<anonymous>)
+    at C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:262475
+    at ez (C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:262554)
+    at eB (C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:262955)
+    at Timeout._onTimeout (C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:259453)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+digest: "1134671595"
+ ⨯ Internal error: Error: Could not find the module "C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\client\link.js#" in the React Client Manifest. This is probably a bug in the React Server Components bundler.
+    at C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:260179
+    at eM (C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:260374)
+    at C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:274925
+    at Array.toJSON (C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:276115)
+    at stringify (<anonymous>)
+    at C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:262475
+    at ez (C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:262554)
+    at eB (C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:262955)
+    at Timeout._onTimeout (C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:259453)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+ ⨯ Internal error: Error: Could not find the module "C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\client\link.js#" in the React Client Manifest. This is probably a bug in the React Server Components bundler.
+    at C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:260179
+    at eM (C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:260374)
+    at C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:274925
+    at Array.toJSON (C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:276115)
+    at stringify (<anonymous>)
+    at C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:262475
+    at ez (C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:262554)
+    at eB (C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:262955)
+    at Timeout._onTimeout (C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:259453)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+ ⨯ Internal error: Error: Could not find the module "C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\client\link.js#" in the React Client Manifest. This is probably a bug in the React Server Components bundler.
+    at C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:260179
+    at eM (C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:260374)
+    at C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:274925
+    at Array.toJSON (C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:276115)
+    at stringify (<anonymous>)
+    at C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:262475
+    at ez (C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:262554)
+    at eB (C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:262955)
+    at Timeout._onTimeout (C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:259453)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+digest: "1134671595"
+ ⨯ Internal error: Error: Could not find the module "C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\client\link.js#" in the React Client Manifest. This is probably a bug in the React Server Components bundler.
+    at C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:260179
+    at eM (C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:260374)
+    at C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:274925
+    at Array.toJSON (C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:276115)
+    at stringify (<anonymous>)
+    at C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:262475
+    at ez (C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:262554)
+    at eB (C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:262955)
+    at Timeout._onTimeout (C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:259453)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+digest: "1134671595"
+ ⨯ Internal error: Error: Could not find the module "C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\client\link.js#" in the React Client Manifest. This is probably a bug in the React Server Components bundler.
+    at C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:260179
+    at eM (C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:260374)
+    at C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:274925
+    at Array.toJSON (C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:276115)
+    at stringify (<anonymous>)
+    at C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:262475
+    at ez (C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:262554)
+    at eB (C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:262955)
+    at Timeout._onTimeout (C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:259453)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+ ⨯ Internal error: Error: Could not find the module "C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\client\link.js#" in the React Client Manifest. This is probably a bug in the React Server Components bundler.
+    at C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:260179
+    at eM (C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:260374)
+    at C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:274925
+    at Array.toJSON (C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:276115)
+    at stringify (<anonymous>)
+    at C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:262475
+    at ez (C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:262554)
+    at eB (C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:262955)
+    at Timeout._onTimeout (C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:259453)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+digest: "1134671595"
+ ⨯ Internal error: Error: Could not find the module "C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\client\link.js#" in the React Client Manifest. This is probably a bug in the React Server Components bundler.
+    at C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:260179
+    at eM (C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:260374)
+    at C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:274925
+    at Array.toJSON (C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:276115)
+    at stringify (<anonymous>)
+    at C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:262475
+    at ez (C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:262554)
+    at eB (C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:262955)
+    at Timeout._onTimeout (C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:259453)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+ ⨯ Internal error: Error: Could not find the module "C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\client\link.js#" in the React Client Manifest. This is probably a bug in the React Server Components bundler.
+    at C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:260179
+    at eM (C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:260374)
+    at C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:274925
+    at Array.toJSON (C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:276115)
+    at stringify (<anonymous>)
+    at C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:262475
+    at ez (C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:262554)
+    at eB (C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:262955)
+    at Timeout._onTimeout (C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:259453)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+ ⨯ Internal error: Error: Could not find the module "C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\client\link.js#" in the React Client Manifest. This is probably a bug in the React Server Components bundler.
+    at C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:260179
+    at eM (C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:260374)
+    at C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:274925
+    at Array.toJSON (C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:276115)
+    at stringify (<anonymous>)
+    at C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:262475
+    at ez (C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:262554)
+    at eB (C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:262955)
+    at Timeout._onTimeout (C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:259453)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+digest: "1134671595"
+ ⨯ Internal error: Error: Could not find the module "C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\client\link.js#" in the React Client Manifest. This is probably a bug in the React Server Components bundler.
+    at C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:260179
+    at eM (C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:260374)
+    at C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:274925
+    at Array.toJSON (C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:276115)
+    at stringify (<anonymous>)
+    at C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:262475
+    at ez (C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:262554)
+    at eB (C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:262955)
+    at Timeout._onTimeout (C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:259453)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+digest: "1134671595"
+ ⨯ Internal error: Error: Could not find the module "C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\client\link.js#" in the React Client Manifest. This is probably a bug in the React Server Components bundler.
+    at C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:260179
+    at eM (C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:260374)
+    at C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:274925
+    at Array.toJSON (C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:276115)
+    at stringify (<anonymous>)
+    at C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:262475
+    at ez (C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:262554)
+    at eB (C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:262955)
+    at Timeout._onTimeout (C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:259453)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+ ⨯ Internal error: Error: Could not find the module "C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\client\link.js#" in the React Client Manifest. This is probably a bug in the React Server Components bundler.
+    at C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:260179
+    at eM (C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:260374)
+    at C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:274925
+    at Array.toJSON (C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:276115)
+    at stringify (<anonymous>)
+    at C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:262475
+    at ez (C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:262554)
+    at eB (C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:262955)
+    at Timeout._onTimeout (C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:259453)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+digest: "1134671595"
+ ⨯ Internal error: Error: Could not find the module "C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\client\link.js#" in the React Client Manifest. This is probably a bug in the React Server Components bundler.
+    at C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:260179
+    at eM (C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:260374)
+    at C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:274925
+    at Array.toJSON (C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:276115)
+    at stringify (<anonymous>)
+    at C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:262475
+    at ez (C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:262554)
+    at eB (C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:262955)
+    at Timeout._onTimeout (C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:259453)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+ ⨯ Internal error: Error: Could not find the module "C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\client\link.js#" in the React Client Manifest. This is probably a bug in the React Server Components bundler.
+    at C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:260179
+    at eM (C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:260374)
+    at C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:274925
+    at Array.toJSON (C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:276115)
+    at stringify (<anonymous>)
+    at C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:262475
+    at ez (C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:262554)
+    at eB (C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:262955)
+    at Timeout._onTimeout (C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:259453)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+ ⨯ Internal error: Error: Could not find the module "C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\client\link.js#" in the React Client Manifest. This is probably a bug in the React Server Components bundler.
+    at C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:260179
+    at eM (C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:260374)
+    at C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:274925
+    at Array.toJSON (C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:276115)
+    at stringify (<anonymous>)
+    at C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:262475
+    at ez (C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:262554)
+    at eB (C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:262955)
+    at Timeout._onTimeout (C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:259453)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+digest: "1134671595"
+ ⨯ Internal error: Error: Could not find the module "C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\client\link.js#" in the React Client Manifest. This is probably a bug in the React Server Components bundler.
+    at C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:260179
+    at eM (C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:260374)
+    at C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:274925
+    at Array.toJSON (C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:276115)
+    at stringify (<anonymous>)
+    at C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:262475
+    at ez (C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:262554)
+    at eB (C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:262955)
+    at Timeout._onTimeout (C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:259453)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+digest: "1134671595"
+ ⨯ Internal error: Error: Could not find the module "C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\client\link.js#" in the React Client Manifest. This is probably a bug in the React Server Components bundler.
+    at C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:260179
+    at eM (C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:260374)
+    at C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:274925
+    at Array.toJSON (C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:276115)
+    at stringify (<anonymous>)
+    at C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:262475
+    at ez (C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:262554)
+    at eB (C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:262955)
+    at Timeout._onTimeout (C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:259453)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+ ⨯ Internal error: Error: Could not find the module "C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\client\link.js#" in the React Client Manifest. This is probably a bug in the React Server Components bundler.
+    at C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:260179
+    at eM (C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:260374)
+    at C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:274925
+    at Array.toJSON (C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:276115)
+    at stringify (<anonymous>)
+    at C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:262475
+    at ez (C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:262554)
+    at eB (C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:262955)
+    at Timeout._onTimeout (C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:259453)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+digest: "1134671595"
+ ⨯ Internal error: Error: Could not find the module "C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\client\link.js#" in the React Client Manifest. This is probably a bug in the React Server Components bundler.
+    at C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:260179
+    at eM (C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:260374)
+    at C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:274925
+    at Array.toJSON (C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:276115)
+    at stringify (<anonymous>)
+    at C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:262475
+    at ez (C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:262554)
+    at eB (C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:262955)
+    at Timeout._onTimeout (C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:259453)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+ ⨯ Internal error: Error: Could not find the module "C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\client\link.js#" in the React Client Manifest. This is probably a bug in the React Server Components bundler.
+    at C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:260179
+    at eM (C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:260374)
+    at C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:274925
+    at Array.toJSON (C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:276115)
+    at stringify (<anonymous>)
+    at C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:262475
+    at ez (C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:262554)
+    at eB (C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:262955)
+    at Timeout._onTimeout (C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:259453)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+ ⨯ Internal error: Error: Could not find the module "C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\client\link.js#" in the React Client Manifest. This is probably a bug in the React Server Components bundler.
+    at C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:260179
+    at eM (C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:260374)
+    at C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:274925
+    at Array.toJSON (C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:276115)
+    at stringify (<anonymous>)
+    at C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:262475
+    at ez (C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:262554)
+    at eB (C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:262955)
+    at Timeout._onTimeout (C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:259453)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+digest: "1134671595"
+ ⨯ Internal error: Error: Could not find the module "C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\client\link.js#" in the React Client Manifest. This is probably a bug in the React Server Components bundler.
+    at C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:260179
+    at eM (C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:260374)
+    at C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:274925
+    at Array.toJSON (C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:276115)
+    at stringify (<anonymous>)
+    at C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:262475
+    at ez (C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:262554)
+    at eB (C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:262955)
+    at Timeout._onTimeout (C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:259453)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+digest: "1134671595"
+ ⨯ Internal error: Error: Could not find the module "C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\client\link.js#" in the React Client Manifest. This is probably a bug in the React Server Components bundler.
+    at C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:260179
+    at eM (C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:260374)
+    at C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:274925
+    at Array.toJSON (C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:276115)
+    at stringify (<anonymous>)
+    at C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:262475
+    at ez (C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:262554)
+    at eB (C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:262955)
+    at Timeout._onTimeout (C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:259453)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+ ⨯ Internal error: Error: Could not find the module "C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\client\link.js#" in the React Client Manifest. This is probably a bug in the React Server Components bundler.
+    at C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:260179
+    at eM (C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:260374)
+    at C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:274925
+    at Array.toJSON (C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:276115)
+    at stringify (<anonymous>)
+    at C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:262475
+    at ez (C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:262554)
+    at eB (C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:262955)
+    at Timeout._onTimeout (C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:259453)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+digest: "1134671595"
+ ⨯ Internal error: Error: Could not find the module "C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\client\link.js#" in the React Client Manifest. This is probably a bug in the React Server Components bundler.
+    at C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:260179
+    at eM (C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:260374)
+    at C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:274925
+    at Array.toJSON (C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:276115)
+    at stringify (<anonymous>)
+    at C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:262475
+    at ez (C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:262554)
+    at eB (C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:262955)
+    at Timeout._onTimeout (C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:259453)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+ ⨯ Internal error: Error: Could not find the module "C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\client\link.js#" in the React Client Manifest. This is probably a bug in the React Server Components bundler.
+    at C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:260179
+    at eM (C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:260374)
+    at C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:274925
+    at Array.toJSON (C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:276115)
+    at stringify (<anonymous>)
+    at C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:262475
+    at ez (C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:262554)
+    at eB (C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:262955)
+    at Timeout._onTimeout (C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:259453)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+ ⨯ Internal error: Error: Could not find the module "C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\client\link.js#" in the React Client Manifest. This is probably a bug in the React Server Components bundler.
+    at C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:260179
+    at eM (C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:260374)
+    at C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:274925
+    at Array.toJSON (C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:276115)
+    at stringify (<anonymous>)
+    at C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:262475
+    at ez (C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:262554)
+    at eB (C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:262955)
+    at Timeout._onTimeout (C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:259453)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+digest: "1134671595"
+ ⨯ Internal error: Error: Could not find the module "C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\client\link.js#" in the React Client Manifest. This is probably a bug in the React Server Components bundler.
+    at C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:260179
+    at eM (C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:260374)
+    at C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:274925
+    at Array.toJSON (C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:276115)
+    at stringify (<anonymous>)
+    at C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:262475
+    at ez (C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:262554)
+    at eB (C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:262955)
+    at Timeout._onTimeout (C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:259453)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+digest: "1134671595"
+ ⨯ Internal error: Error: Could not find the module "C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\client\link.js#" in the React Client Manifest. This is probably a bug in the React Server Components bundler.
+    at C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:260179
+    at eM (C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:260374)
+    at C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:274925
+    at Array.toJSON (C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:276115)
+    at stringify (<anonymous>)
+    at C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:262475
+    at ez (C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:262554)
+    at eB (C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:262955)
+    at Timeout._onTimeout (C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:259453)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+ ⨯ Internal error: Error: Could not find the module "C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\client\link.js#" in the React Client Manifest. This is probably a bug in the React Server Components bundler.
+    at C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:260179
+    at eM (C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:260374)
+    at C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:274925
+    at Array.toJSON (C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:276115)
+    at stringify (<anonymous>)
+    at C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:262475
+    at ez (C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:262554)
+    at eB (C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:262955)
+    at Timeout._onTimeout (C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:259453)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+digest: "1134671595"
+ ⨯ Internal error: Error: Could not find the module "C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\client\link.js#" in the React Client Manifest. This is probably a bug in the React Server Components bundler.
+    at C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:260179
+    at eM (C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:260374)
+    at C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:274925
+    at Array.toJSON (C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:276115)
+    at stringify (<anonymous>)
+    at C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:262475
+    at ez (C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:262554)
+    at eB (C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:262955)
+    at Timeout._onTimeout (C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:259453)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+ ⨯ Internal error: Error: Could not find the module "C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\client\link.js#" in the React Client Manifest. This is probably a bug in the React Server Components bundler.
+    at C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:260179
+    at eM (C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:260374)
+    at C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:274925
+    at Array.toJSON (C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:276115)
+    at stringify (<anonymous>)
+    at C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:262475
+    at ez (C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:262554)
+    at eB (C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:262955)
+    at Timeout._onTimeout (C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:259453)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+ ⨯ Internal error: Error: Could not find the module "C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\client\link.js#" in the React Client Manifest. This is probably a bug in the React Server Components bundler.
+    at C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:260179
+    at eM (C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:260374)
+    at C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:274925
+    at Array.toJSON (C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:276115)
+    at stringify (<anonymous>)
+    at C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:262475
+    at ez (C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:262554)
+    at eB (C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:262955)
+    at Timeout._onTimeout (C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:259453)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+digest: "1134671595"
+ ⨯ Internal error: Error: Could not find the module "C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\client\link.js#" in the React Client Manifest. This is probably a bug in the React Server Components bundler.
+    at C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:260179
+    at eM (C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:260374)
+    at C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:274925
+    at Array.toJSON (C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:276115)
+    at stringify (<anonymous>)
+    at C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:262475
+    at ez (C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:262554)
+    at eB (C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:262955)
+    at Timeout._onTimeout (C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:259453)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+digest: "1134671595"
+<w> [webpack.cache.PackFileCacheStrategy] Caching failed for pack: Error: ENOENT: no such file or directory, lstat 'C:\myproject\twitter-bookmark-viewer\.next\server\app\api'
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Resolving './vendor-chunks/@babel' in C:\myproject\twitter-bookmark-viewer\.next\server for build dependencies doesn't lead to expected result 'C:\myproject\twitter-bookmark-viewer\.next\server\vendor-chunks\@babel.js', but to 'Error: Can't resolve './vendor-chunks/@babel' in 'C:\myproject\twitter-bookmark-viewer\.next\server'' instead. Resolving dependencies are ignored for this path.
+<w>  at resolve commonjs file ./vendor-chunks/@babel (expected C:\myproject\twitter-bookmark-viewer\.next\server\vendor-chunks\@babel.js)
+<w>  at file dependencies C:\myproject\twitter-bookmark-viewer\.next\server\webpack-runtime.js
+<w>  at file C:\myproject\twitter-bookmark-viewer\.next\server\webpack-runtime.js
+<w>  at file dependencies C:\myproject\twitter-bookmark-viewer\.next\server\app\dashboard\page.js
+<w>  at file C:\myproject\twitter-bookmark-viewer\.next\server\app\dashboard\page.js
+<w>  at file dependencies C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\server\require.js
+<w>  at file C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\server\require.js
+<w>  at file dependencies C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\server\load-components.js
+<w>  at file C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\server\load-components.js
+<w>  at file dependencies C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\build\utils.js
+<w>  at file C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\build\utils.js
+<w>  at file dependencies C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\build\worker.js
+<w>  at file C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\build\worker.js
+<w>  at file dependencies C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\build\webpack\loaders\next-route-loader\index.js
+<w>  at file C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\build\webpack\loaders\next-route-loader\index.js
+<w>  at resolve commonjs C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\build\webpack\loaders\next-route-loader\index.js
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Resolving '../../../../.next/server/app/test/page' in C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\server for build dependencies doesn't lead to expected result 'C:\myproject\twitter-bookmark-viewer\.next\server\app\test\page.js', but to 'Error: Can't resolve '../../../../.next/server/app/test/page' in 'C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\server'' instead. Resolving dependencies are ignored for this path.
+<w>  at resolve commonjs file ../../../../.next/server/app/test/page (expected C:\myproject\twitter-bookmark-viewer\.next\server\app\test\page.js)
+<w>  at file dependencies C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\server\require.js
+<w>  at file C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\server\require.js
+<w>  at file dependencies C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\server\load-components.js
+<w>  at file C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\server\load-components.js
+<w>  at file dependencies C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\build\utils.js
+<w>  at file C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\build\utils.js
+<w>  at file dependencies C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\build\worker.js
+<w>  at file C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\build\worker.js
+<w>  at file dependencies C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\build\webpack\loaders\next-route-loader\index.js
+<w>  at file C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\build\webpack\loaders\next-route-loader\index.js
+<w>  at resolve commonjs C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\build\webpack\loaders\next-route-loader\index.js
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Resolving '../../../../.next/server/app/api/bookmarks/import/route' in C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\server for build dependencies doesn't lead to expected result 'C:\myproject\twitter-bookmark-viewer\.next\server\app\api\bookmarks\import\route.js', but to 'Error: Can't resolve '../../../../.next/server/app/api/bookmarks/import/route' in 'C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\server'' instead. Resolving dependencies are ignored for this path.
+<w>  at resolve commonjs file ../../../../.next/server/app/api/bookmarks/import/route (expected C:\myproject\twitter-bookmark-viewer\.next\server\app\api\bookmarks\import\route.js)
+<w>  at file dependencies C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\server\require.js
+<w>  at file C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\server\require.js
+<w>  at file dependencies C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\server\load-components.js
+<w>  at file C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\server\load-components.js
+<w>  at file dependencies C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\build\utils.js
+<w>  at file C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\build\utils.js
+<w>  at file dependencies C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\build\worker.js
+<w>  at file C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\build\worker.js
+<w>  at file dependencies C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\build\webpack\loaders\next-route-loader\index.js
+<w>  at file C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\build\webpack\loaders\next-route-loader\index.js
+<w>  at resolve commonjs C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\build\webpack\loaders\next-route-loader\index.js
+ ⨯ Internal error: Error: Could not find the module "C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\client\link.js#" in the React Client Manifest. This is probably a bug in the React Server Components bundler.
+    at C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:260179
+    at eM (C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:260374)
+    at C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:274925
+    at Array.toJSON (C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:276115)
+    at stringify (<anonymous>)
+    at C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:262475
+    at ez (C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:262554)
+    at eB (C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:262955)
+    at Timeout._onTimeout (C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:259453)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+ ⨯ Internal error: Error: Could not find the module "C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\client\link.js#" in the React Client Manifest. This is probably a bug in the React Server Components bundler.
+    at C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:260179
+    at eM (C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:260374)
+    at C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:274925
+    at Array.toJSON (C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:276115)
+    at stringify (<anonymous>)
+    at C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:262475
+    at ez (C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:262554)
+    at eB (C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:262955)
+    at Timeout._onTimeout (C:\myproject\twitter-bookmark-viewer\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:259453)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+digest: "1134671595"
